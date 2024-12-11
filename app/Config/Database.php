@@ -7,7 +7,7 @@ use CodeIgniter\Database\Config;
 /**
  * Database Configuration
  */
-class Database extends Config
+class Database extends Configg
 {
     /**
      * The directory that holds the Migrations and Seeds directories.
